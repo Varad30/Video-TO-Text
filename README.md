@@ -41,4 +41,4 @@ Run the following to view all available options:
 
 ## License
 
-This script is open-source and licensed under the MIT License. For more details, check the [LICENSE](LICENSE) file.
+Varad Unhale
